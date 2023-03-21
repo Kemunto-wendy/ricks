@@ -446,7 +446,7 @@ body.nav-active {
 
 .hero-banner {
     display: none;
-}
+    }
 
 .hero {
     background-color: var(--midnight-green);
@@ -971,6 +971,7 @@ body.nav-active {
     .about-banner {
         max-width: max-content;
         margin-inline: auto;
+
     }
     /**
      * LISTING
